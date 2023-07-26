@@ -1,6 +1,6 @@
 # Age, Gender, Race Predictor
 
-This project is a machine learning-based age, gender, and race predictor using the UTKface dataset. It provides a graphical user interface (GUI) for users to interact with the predictor and obtain predictions for age, gender, and race based on facial images.
+This project is a machine learning-based age, gender, and race predictor using the UTKface dataset and efficientnet models. It provides a graphical user interface (GUI) for users to interact with the predictor and obtain predictions for age, gender, and race based on facial images.
 
 ## Table of Contents
 
